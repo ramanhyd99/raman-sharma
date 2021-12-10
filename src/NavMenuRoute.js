@@ -9,7 +9,7 @@ const NavMenuRoute = () => {
     return (
         <Routes>
             <Route exact path='/weather' element={<Weather />}></Route>
-            <Route exact path='/info' element={<Info />}></Route>
+            <Route exact path='/' element={<Info />}></Route>
         </Routes>
     )
 }

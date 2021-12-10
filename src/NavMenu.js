@@ -10,14 +10,15 @@ class NavMenu extends React.Component {
 
         return (
             <div>
-                <NavLink style={{ 'text-decoration': 'none' }} to='/weather'>
+                <NavLink style={{ 'text-decoration': 'none' }} to='/'>
                     <Badge style={{ 'text-color': 'LightGrey' }} >
                         Home
                     </Badge> </NavLink>
-                <NavLink style={{ 'text-decoration': 'none' }} to='/info'>
+                <NavLink style={{ 'text-decoration': 'none' }} to='/weather'>
                     <Badge style={{ 'text-color': 'LightGrey' }} >
-                        Info
+                        Weather
                     </Badge> </NavLink>
+
 
             </div>
         )
