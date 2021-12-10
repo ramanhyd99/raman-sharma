@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/raman/static/css/main.ad3d6465.chunk.css",
+    "main.js": "/raman/static/js/main.410b0df2.chunk.js",
+    "main.js.map": "/raman/static/js/main.410b0df2.chunk.js.map",
+    "runtime-main.js": "/raman/static/js/runtime-main.c69c0f76.js",
+    "runtime-main.js.map": "/raman/static/js/runtime-main.c69c0f76.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/raman/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.9e0a3d71.chunk.js": "/raman/static/js/2.9e0a3d71.chunk.js",
+    "static/js/2.9e0a3d71.chunk.js.map": "/raman/static/js/2.9e0a3d71.chunk.js.map",
+    "static/js/3.6eaa6eca.chunk.js": "/raman/static/js/3.6eaa6eca.chunk.js",
+    "static/js/3.6eaa6eca.chunk.js.map": "/raman/static/js/3.6eaa6eca.chunk.js.map",
+    "index.html": "/raman/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/raman/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.ad3d6465.chunk.css.map": "/raman/static/css/main.ad3d6465.chunk.css.map",
+    "static/js/2.9e0a3d71.chunk.js.LICENSE.txt": "/raman/static/js/2.9e0a3d71.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/raman/static/media/logo.6ce24c58.svg",
+    "static/media/raman.1fea034a.png": "/raman/static/media/raman.1fea034a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c69c0f76.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.9e0a3d71.chunk.js",
+    "static/css/main.ad3d6465.chunk.css",
+    "static/js/main.410b0df2.chunk.js"
+  ]
+}
